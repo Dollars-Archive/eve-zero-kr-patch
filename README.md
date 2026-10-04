@@ -25,35 +25,35 @@ Dreamcast판 **EVE ZERO 完全版 ark of the matter** 비공식 한국어 패치
 
 > **Dreamcast판 EVE ZERO를 한국어로 플레이할 수 있도록 제작한 비공식 한국어 패치입니다.**
 
-### 타이틀 화면
+### 메뉴 / 시스템 화면
 
-타이틀 화면 및 주요 메뉴를 한국어화했습니다.
+옵션 화면 및 시스템 메시지를 한국어화했습니다.
 
-<!-- 여기에 타이틀 화면 스크린샷을 추가하세요. -->
+<img width="878" height="656" alt="image" src="https://github.com/user-attachments/assets/24b140ea-a280-4b39-a7b9-8e740769c654" />
+<img width="878" height="653" alt="image" src="https://github.com/user-attachments/assets/148444e7-cb3a-4988-a8c6-407f6591afff" />
+<img width="878" height="650" alt="image" src="https://github.com/user-attachments/assets/43174dd9-4122-4251-a5f4-77637e66c72d" />
 
 ### 대사 / 이벤트
 
 스토리 대사 및 이벤트 텍스트를 한국어화했습니다.
 
-<!-- 여기에 대사 / 이벤트 스크린샷을 추가하세요. -->
+<img width="878" height="655" alt="image" src="https://github.com/user-attachments/assets/f591b5e1-84a6-454e-a68c-ae5f3bcf11c2" />
+<img width="1791" height="1307" alt="스크린샷 2026-10-04 014639" src="https://github.com/user-attachments/assets/46456152-90c0-4866-bb38-ca93750f9fe2" />
+
 
 ### 조사·행동 선택 메뉴
 
 조사, 이동, 대화 등 게임 진행에 사용되는 조사·행동 선택 메뉴를 한국어화했습니다.
 
-<!-- 여기에 조사·행동 선택 메뉴 스크린샷을 추가하세요. -->
+<img width="880" height="656" alt="image" src="https://github.com/user-attachments/assets/e480dfd3-6b13-4827-8f51-c7e6409c3fbb" />
+<img width="881" height="656" alt="image" src="https://github.com/user-attachments/assets/31ca8a69-b7c0-429d-b08b-0a2c7d442b10" />
+
 
 ### 이동 / 장소 선택 화면
 
 게임 진행 중 표시되는 이동 및 장소 선택 관련 텍스트를 한국어화했습니다.
 
 <!-- 여기에 이동 / 장소 선택 화면 스크린샷을 추가하세요. -->
-
-### 메뉴 / 시스템 화면
-
-게임 내 메뉴와 시스템 관련 텍스트를 한국어화했습니다.
-
-<!-- 여기에 메뉴 / 시스템 화면 스크린샷을 추가하세요. -->
 
 ## 다운로드
 
