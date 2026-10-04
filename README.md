@@ -38,6 +38,8 @@ Dreamcast판 **EVE ZERO 完全版 ark of the matter** 비공식 한국어 패치
 
 <img width="80%" alt="image" src="https://github.com/user-attachments/assets/f591b5e1-84a6-454e-a68c-ae5f3bcf11c2" />
 <img width="80%" alt="스크린샷 2026-10-04 014639" src="https://github.com/user-attachments/assets/46456152-90c0-4866-bb38-ca93750f9fe2" />
+<img width="2607" height="1890" alt="image" src="https://github.com/user-attachments/assets/9a4dc860-bc53-459d-80e5-5a65726c19ce" />
+
 
 ### 조사·행동 선택 메뉴
 
