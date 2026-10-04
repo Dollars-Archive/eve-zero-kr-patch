@@ -35,7 +35,8 @@ Dreamcast판 **EVE ZERO 完全版 ark of the matter** 비공식 한국어 패치
 
 ### 작품 특징
 
-이번 한국어 패치는 PlayStation판이 아니라 **Dreamcast용 「EVE ZERO 完全版 -ark of the matter-」**를 기준으로 제작했습니다.
+이번 한국어 패치는 PlayStation판이 아니라<br>
+**Dreamcast용 「EVE ZERO 完全版 -ark of the matter-」**를 기준으로 제작했습니다.
 
 Dreamcast판은 PlayStation판의 단순 이식이 아니라 추가 요소가 포함된 완전판으로, 다음과 같은 차이가 있습니다.
 
