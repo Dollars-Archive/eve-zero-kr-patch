@@ -29,25 +29,23 @@ Dreamcast판 **EVE ZERO 完全版 ark of the matter** 비공식 한국어 패치
 
 옵션 화면 및 시스템 메시지를 한국어화했습니다.
 
-<img width="878" height="656" alt="image" src="https://github.com/user-attachments/assets/24b140ea-a280-4b39-a7b9-8e740769c654" />
-<img width="878" height="653" alt="image" src="https://github.com/user-attachments/assets/148444e7-cb3a-4988-a8c6-407f6591afff" />
-<img width="878" height="650" alt="image" src="https://github.com/user-attachments/assets/43174dd9-4122-4251-a5f4-77637e66c72d" />
+<img width="80%" alt="image" src="https://github.com/user-attachments/assets/24b140ea-a280-4b39-a7b9-8e740769c654" />
+<img width="80%" alt="image" src="https://github.com/user-attachments/assets/148444e7-cb3a-4988-a8c6-407f6591afff" />
+<img width="80%" alt="image" src="https://github.com/user-attachments/assets/43174dd9-4122-4251-a5f4-77637e66c72d" />
 
 ### 대사 / 이벤트
 
 스토리 대사 및 이벤트 텍스트를 한국어화했습니다.
 
-<img width="878" height="655" alt="image" src="https://github.com/user-attachments/assets/f591b5e1-84a6-454e-a68c-ae5f3bcf11c2" />
-<img width="1791" height="1307" alt="스크린샷 2026-10-04 014639" src="https://github.com/user-attachments/assets/46456152-90c0-4866-bb38-ca93750f9fe2" />
-
+<img width="80%" alt="image" src="https://github.com/user-attachments/assets/f591b5e1-84a6-454e-a68c-ae5f3bcf11c2" />
+<img width="80%" alt="스크린샷 2026-10-04 014639" src="https://github.com/user-attachments/assets/46456152-90c0-4866-bb38-ca93750f9fe2" />
 
 ### 조사·행동 선택 메뉴
 
 조사, 이동, 대화 등 게임 진행에 사용되는 조사·행동 선택 메뉴를 한국어화했습니다.
 
-<img width="880" height="656" alt="image" src="https://github.com/user-attachments/assets/e480dfd3-6b13-4827-8f51-c7e6409c3fbb" />
-<img width="881" height="656" alt="image" src="https://github.com/user-attachments/assets/31ca8a69-b7c0-429d-b08b-0a2c7d442b10" />
-
+<img width="80%" alt="image" src="https://github.com/user-attachments/assets/e480dfd3-6b13-4827-8f51-c7e6409c3fbb" />
+<img width="80%" alt="image" src="https://github.com/user-attachments/assets/31ca8a69-b7c0-429d-b08b-0a2c7d442b10" />
 
 ### 이동 / 장소 선택 화면
 
