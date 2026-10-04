@@ -38,7 +38,7 @@ Dreamcast판 **EVE ZERO 完全版 ark of the matter** 비공식 한국어 패치
 
 <img width="80%" alt="image" src="https://github.com/user-attachments/assets/f591b5e1-84a6-454e-a68c-ae5f3bcf11c2" />
 <img width="80%" alt="스크린샷 2026-10-04 014639" src="https://github.com/user-attachments/assets/46456152-90c0-4866-bb38-ca93750f9fe2" />
-<img width="2607" height="1890" alt="image" src="https://github.com/user-attachments/assets/9a4dc860-bc53-459d-80e5-5a65726c19ce" />
+<img width="80%" alt="image" src="https://github.com/user-attachments/assets/9a4dc860-bc53-459d-80e5-5a65726c19ce" />
 
 
 ### 조사·행동 선택 메뉴
@@ -52,7 +52,7 @@ Dreamcast판 **EVE ZERO 完全版 ark of the matter** 비공식 한국어 패치
 
 게임 진행 중 표시되는 이동 및 장소 선택 관련 텍스트를 한국어화했습니다.
 
-<img width="2610" height="1939" alt="image" src="https://github.com/user-attachments/assets/c15d1135-0a0e-4a3c-8d89-cbf193b7216b" />
+<img width="80%" alt="image" src="https://github.com/user-attachments/assets/c15d1135-0a0e-4a3c-8d89-cbf193b7216b" />
 
 ## 다운로드
 
