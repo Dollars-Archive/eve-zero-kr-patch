@@ -30,7 +30,6 @@ Dreamcast판 **EVE ZERO 完全版 ark of the matter** 비공식 한국어 패치
 옵션 화면 및 시스템 메시지를 한국어화했습니다.
 
 <img width="80%" alt="image" src="https://github.com/user-attachments/assets/24b140ea-a280-4b39-a7b9-8e740769c654" />
-<img width="80%" alt="image" src="https://github.com/user-attachments/assets/148444e7-cb3a-4988-a8c6-407f6591afff" />
 <img width="80%" alt="image" src="https://github.com/user-attachments/assets/43174dd9-4122-4251-a5f4-77637e66c72d" />
 
 ### 대사 / 이벤트
@@ -51,7 +50,7 @@ Dreamcast판 **EVE ZERO 完全版 ark of the matter** 비공식 한국어 패치
 
 게임 진행 중 표시되는 이동 및 장소 선택 관련 텍스트를 한국어화했습니다.
 
-<!-- 여기에 이동 / 장소 선택 화면 스크린샷을 추가하세요. -->
+<img width="2610" height="1939" alt="image" src="https://github.com/user-attachments/assets/c15d1135-0a0e-4a3c-8d89-cbf193b7216b" />
 
 ## 다운로드
 
