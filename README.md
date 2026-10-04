@@ -60,7 +60,6 @@ Dreamcast판은 PlayStation판의 단순 이식이 아니라 추가 요소가 �
 <img width="2641" height="1966" alt="image" src="https://github.com/user-attachments/assets/9d42f651-fa07-4ea6-a61e-085666f4241e" />
 <img width="2621" height="1975" alt="image" src="https://github.com/user-attachments/assets/5e410c30-57ec-44ba-9cf6-e2b55780cafa" />
 <img width="80%" alt="image" src="https://github.com/user-attachments/assets/24b140ea-a280-4b39-a7b9-8e740769c654" />
-<img width="80%" alt="image" src="https://github.com/user-attachments/assets/43174dd9-4122-4251-a5f4-77637e66c72d" />
 
 ### 대사 / 이벤트
 
