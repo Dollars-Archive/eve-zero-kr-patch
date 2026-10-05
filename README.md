@@ -4,16 +4,23 @@ Dreamcast판 **EVE ZERO 完全版 ark of the matter** 비공식 한국어 패치
 
 최신 버전은 [Releases](https://github.com/Dollars-Archive/eve-zero-kr-patch/releases)에서 확인해 주세요.
 
+<!-- kr-patch:game-info:v1:start -->
 ## 게임 정보
 
 | 항목 | 내용 |
 | --- | --- |
+| 한글 제목 | EVE ZERO |
 | 원제 | EVE ZERO 完全版 ark of the matter |
+| 시리즈 | EVE |
 | 플랫폼 | Dreamcast |
+| 개발사 | C's Ware |
 | 장르 | 어드벤처 |
 | 일본 발매일 | 2001년 3월 22일 |
+| 플레이타임 | 약 46시간 |
 | 지원 판본 | Dreamcast 일본판 |
 | 제품 번호 | `T-39802M` |
+
+<!-- kr-patch:game-info:v1:end -->
 
 > [!NOTE]
 > 패치에는 게임 본편이나 디스크 이미지가 포함되어 있지 않습니다.  
@@ -49,9 +56,18 @@ Dreamcast판은 PlayStation판의 단순 이식이 아니라 추가 요소가 �
 
 처음 플레이하신다면 추가 시나리오까지 수록된 **Dreamcast 완전판을 권장합니다.**
 
-## 한국어화 범위
-
+<!-- kr-patch:scope:v1:start -->
 > **Dreamcast판 EVE ZERO를 한국어로 플레이할 수 있도록 제작한 비공식 한국어 패치입니다.**
+
+<!-- 각 항목의 상태만 완료 / 일부 / 미작업 / 해당 없음 중 하나로 수정합니다. 기존 근거가 부족한 항목은 확인 필요로 남깁니다. -->
+
+## 타이틀 한글화
+
+상태: 완료
+
+## 메뉴·UI
+
+상태: 완료
 
 ### 메뉴 / 시스템 화면
 
@@ -60,15 +76,6 @@ Dreamcast판은 PlayStation판의 단순 이식이 아니라 추가 요소가 �
 <img width="80%" alt="image" src="https://github.com/user-attachments/assets/9d42f651-fa07-4ea6-a61e-085666f4241e" />
 <img width="80%" alt="image" src="https://github.com/user-attachments/assets/5e410c30-57ec-44ba-9cf6-e2b55780cafa" />
 <img width="80%" alt="image" src="https://github.com/user-attachments/assets/24b140ea-a280-4b39-a7b9-8e740769c654" />
-
-### 대사 / 이벤트
-
-스토리 대사 및 이벤트 텍스트를 한국어화했습니다.
-
-<img width="80%" alt="image" src="https://github.com/user-attachments/assets/f591b5e1-84a6-454e-a68c-ae5f3bcf11c2" />
-<img width="80%" alt="스크린샷 2026-10-04 014639" src="https://github.com/user-attachments/assets/46456152-90c0-4866-bb38-ca93750f9fe2" />
-<img width="80%" alt="image" src="https://github.com/user-attachments/assets/9a4dc860-bc53-459d-80e5-5a65726c19ce" />
-
 
 ### 조사·행동 선택 메뉴
 
@@ -82,6 +89,28 @@ Dreamcast판은 PlayStation판의 단순 이식이 아니라 추가 요소가 �
 게임 진행 중 표시되는 이동 및 장소 선택 관련 텍스트를 한국어화했습니다.
 
 <img width="80%" alt="image" src="https://github.com/user-attachments/assets/c15d1135-0a0e-4a3c-8d89-cbf193b7216b" />
+
+## 대사
+
+상태: 완료
+
+### 대사 / 이벤트
+
+스토리 대사 및 이벤트 텍스트를 한국어화했습니다.
+
+<img width="80%" alt="image" src="https://github.com/user-attachments/assets/f591b5e1-84a6-454e-a68c-ae5f3bcf11c2" />
+<img width="80%" alt="스크린샷 2026-10-04 014639" src="https://github.com/user-attachments/assets/46456152-90c0-4866-bb38-ca93750f9fe2" />
+<img width="80%" alt="image" src="https://github.com/user-attachments/assets/9a4dc860-bc53-459d-80e5-5a65726c19ce" />
+
+## 이미지 번역
+
+상태: 완료
+
+## 동영상 자막
+
+상태: 확인 필요
+
+<!-- kr-patch:scope:v1:end -->
 
 ## 다운로드
 
