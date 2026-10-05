@@ -63,13 +63,12 @@ Dreamcast판은 PlayStation판의 단순 이식이 아니라 추가 요소가 �
 
 ## 타이틀 한글화
 
-상태: 완료
+<img width="80%" alt="image" src="https://github.com/user-attachments/assets/9d42f651-fa07-4ea6-a61e-085666f4241e" />
 
 ### 메뉴 / 시스템 화면
 
 옵션 화면 및 시스템 메시지를 한국어화했습니다.
 
-<img width="80%" alt="image" src="https://github.com/user-attachments/assets/9d42f651-fa07-4ea6-a61e-085666f4241e" />
 <img width="80%" alt="image" src="https://github.com/user-attachments/assets/5e410c30-57ec-44ba-9cf6-e2b55780cafa" />
 <img width="80%" alt="image" src="https://github.com/user-attachments/assets/24b140ea-a280-4b39-a7b9-8e740769c654" />
 
@@ -87,12 +86,7 @@ Dreamcast판은 PlayStation판의 단순 이식이 아니라 추가 요소가 �
 <img width="80%" alt="image" src="https://github.com/user-attachments/assets/c15d1135-0a0e-4a3c-8d89-cbf193b7216b" />
 
 ## 대사
-
-상태: 완료
-
-### 대사 / 이벤트
-
-스토리 대사 및 이벤트 텍스트를 한국어화했습니다.
+>스토리 대사 및 이벤트 텍스트를 한국어화했습니다.
 
 <img width="80%" alt="image" src="https://github.com/user-attachments/assets/f591b5e1-84a6-454e-a68c-ae5f3bcf11c2" />
 <img width="80%" alt="스크린샷 2026-10-04 014639" src="https://github.com/user-attachments/assets/46456152-90c0-4866-bb38-ca93750f9fe2" />
