@@ -100,7 +100,7 @@ Dreamcast판은 PlayStation판의 단순 이식이 아니라 추가 요소가 �
 
 ## 동영상 자막
 
-<img width="1013" height="675" alt="스크린샷 2026-10-05 124843" src="https://github.com/user-attachments/assets/ce80f701-1f87-40b7-ae62-ce3095e419aa" />
+<img width="80%" alt="스크린샷 2026-10-05 124843" src="https://github.com/user-attachments/assets/ce80f701-1f87-40b7-ae62-ce3095e419aa" />
 
 
 <!-- kr-patch:scope:v1:end -->
