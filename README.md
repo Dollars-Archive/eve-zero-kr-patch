@@ -65,10 +65,6 @@ Dreamcast판은 PlayStation판의 단순 이식이 아니라 추가 요소가 �
 
 상태: 완료
 
-## 메뉴·UI
-
-상태: 완료
-
 ### 메뉴 / 시스템 화면
 
 옵션 화면 및 시스템 메시지를 한국어화했습니다.
@@ -102,13 +98,10 @@ Dreamcast판은 PlayStation판의 단순 이식이 아니라 추가 요소가 �
 <img width="80%" alt="스크린샷 2026-10-04 014639" src="https://github.com/user-attachments/assets/46456152-90c0-4866-bb38-ca93750f9fe2" />
 <img width="80%" alt="image" src="https://github.com/user-attachments/assets/9a4dc860-bc53-459d-80e5-5a65726c19ce" />
 
-## 이미지 번역
-
-상태: 완료
-
 ## 동영상 자막
 
-상태: 확인 필요
+<img width="1013" height="675" alt="스크린샷 2026-10-05 124843" src="https://github.com/user-attachments/assets/ce80f701-1f87-40b7-ae62-ce3095e419aa" />
+
 
 <!-- kr-patch:scope:v1:end -->
 
